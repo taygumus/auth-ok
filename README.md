@@ -39,5 +39,4 @@ The tool utilized for UML modeling is [StarUML](https://staruml.io/).
 ### Part III: Java Implementation
 
 Implementing the AuthOK Java code is the final part of the software realization process. It has the objective to develop the real program which must respect all the models previously established, starting from the Goal Diagram up to the last of the UML diagrams. One at a time, all the methods were implemented and integrated with each other in order to realize the logic application of the program.  
-
 The implementation is realized using the [IntelliJ IDEA](https://www.jetbrains.com/idea/) development environment.
