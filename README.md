@@ -12,7 +12,7 @@ The project documentation is structured into three main parts:
 
 ### Part I: Requirements Analysis
 
-AuthOK is an authentication system based on a client-server architecture. The project involves building a Java library for remote communication between systems. The library exactly implements the JSON-RPC protocol specification. Leveraging this, a centralized authorization system is established for accessing specific resources. The central system maintains the list of accessible resources and tracks the permissions granted.
+AuthOK is an access control system based on a client-server architecture. The project involves building a Java library for remote communication between systems. The library exactly implements the JSON-RPC protocol specification. Leveraging this, a centralized authorization system is established for accessing specific resources. The central system maintains the list of accessible resources and tracks the permissions granted.
 
 #### Utilized Tools:
 
